@@ -18,7 +18,6 @@ How to Run the Project
 
 ```bash
   git clone https://github.com/Aniy13/Palindrome-Checker-Evyass.git
-  cd Palindrome-Checker-Evyass
 ```
 
 **2.Dowload the zip file**
