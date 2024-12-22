@@ -17,7 +17,7 @@ How to Run the Project
 **1.Clone the Repository**
 
 ```bash
-  git clone https://github.com/Aniy13/Palindrome-Checker-Evyass.git
+  git clone https://github.com/Aniy13/Palindrome-Checker-Evyaas.git
 ```
 
 **2.Dowload the zip file**
