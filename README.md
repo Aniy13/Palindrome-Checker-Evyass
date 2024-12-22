@@ -1,5 +1,5 @@
 
-# Palindrome Checker - Evyass Assessment
+# Palindrome Checker - Evyaas Assessment
 
 
 
