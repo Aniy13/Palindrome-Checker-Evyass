@@ -1,35 +1,63 @@
-# Palindrome-Checker-Evyass-Assessment
 
-**technologies used:**
--Frontend : HTML,CSS,JS
--Backend : Python, Flask
+# Palindrome Checker - Evyass Assessment
 
 
-**How to run this project*:*
--Clone the above repo 
 
-        or
+
+## Technologies used
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Backend:** Python, Flask
+
+## Installation
+
+How to Run the Project
+
+**1.Clone the Repository**
+
+```bash
+  git clone https://github.com/Aniy13/Palindrome-Checker-Evyass.git
+  cd Palindrome-Checker-Evyass
+```
+
+**2.Dowload the zip file**
+
+   - unzeep the file and Navigate to the Project Directory.
+
+```bash
+       cd Palindrome-Checker
+```
+   - Install Flask:
+       Make sure Python is installed on your system. Use the following command to install Flask:
+
+```bash
+       pip install flask
+ ```
+- Run the Application:
+Execute the following command:
+```bash
+       python app.py
+ ```
+- Open in Browser:
+Visit the following URL in your browser: http://127.0.0.1:5000/
+
+
+
+## Project Structure
+
+```bash
     
-1.Download zip file from here and unzip it.
-2.Navigate to project directory  using cd command i.e. **(......./Palindrome-Checker)**
-3.Install Flask using following command if python installed.
-    pip install flask
-4.To run this project use this command
-    python app.py
-5.open the above url in any browser 
-    http://127.0.0.1:5000/
+Palindrome-Checker/
 
-**Project structure:**
-Palindrome-Checker-/
 ├── static/
 │   ├── css/
-│   │   ├── style.css
+│   │   └── style.css
 │   ├── js/
-│   │   ├── script.js
+│   │   └── script.js
 ├── templates/
-│   ├── index.html
+│   └── index.html
 ├── app.py
 ├── README.md
 
-
-
+ ```
