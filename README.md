@@ -22,7 +22,7 @@ How to Run the Project
 
 **2.Dowload the zip file**
 
-   - unzeep the file and Navigate to the Project Directory.
+   - unzip the file and Navigate to the Project Directory.
 
 ```bash
        cd Palindrome-Checker
