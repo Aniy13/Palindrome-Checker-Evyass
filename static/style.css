@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    background: #ffffff;
+    max-width: 550px;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+header h1 {
+    text-align: center;
+    color: #2152f5;
+    margin-bottom: 20px;
+}
+
+
+.palindrome-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 15px; 
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.sub-btn {
+    margin-top: 10px;
+    background-color: #0667d0;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+
+.form-group:nth-child(3) {
+    margin-top: 25px;
+    
+    
+}
+#result{
+    text-align: center;
+}
+#entered-word{
+    text-align: center;
+}
+#reversed-word{
+    text-align: center;
+}
+
+.clear-btn{
+    margin-top: 4px;
+    background-color: #0667d0;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    border-color: #ddd;
+    cursor: pointer;
+}
